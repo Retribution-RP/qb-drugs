@@ -140,6 +140,14 @@ Config.DrugsPrice = {
         min = 18,
         max = 40,
     },
+    ["cokebaggy"] = {
+        min = 55,
+        max = 90,
+    },
+	["crack_baggy"] = {
+        min = 25,
+        max = 50,
+    },
 }
 
 -- Delivery Config
