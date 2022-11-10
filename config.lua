@@ -148,6 +148,10 @@ Config.DrugsPrice = {
         min = 25,
         max = 50,
     },
+    ["meth"] = {
+        min = 55,
+        max = 90,
+    },
 }
 
 -- Delivery Config
