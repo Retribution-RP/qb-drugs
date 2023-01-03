@@ -125,7 +125,15 @@ Config.DrugsPrice = {
         max = 37,
     },
     ["weed_ak47"] = {
-        min = 18,
+        min = 20,
+        max = 40,
+    },
+    ["weed_gelato"] = {
+        min = 20,
+        max = 40,
+    },
+    ["weed_zkittlez"] = {
+        min = 20,
         max = 40,
     },
     ["crack_baggy"] = {
